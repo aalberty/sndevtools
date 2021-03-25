@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>slush_bucket_page</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>aalberty@itsdelivers.com</sys_created_by>
+        <sys_created_on>2021-03-18 19:00:07</sys_created_on>
+        <sys_id>ae75ff582fc32010125ad5ccf699b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>slush_bucket_page</sys_name>
+        <sys_package display_value="Developer Tools" source="x_324004_devtools">487be3dc2f832010125ad5ccf699b6b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Tools">487be3dc2f832010125ad5ccf699b6b2</sys_scope>
+        <sys_update_name>sp_page_ae75ff582fc32010125ad5ccf699b65f</sys_update_name>
+        <sys_updated_by>aalberty@itsdelivers.com</sys_updated_by>
+        <sys_updated_on>2021-03-18 19:00:07</sys_updated_on>
+        <title>Slush Bucket - Test Page</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae75ff582fc32010125ad5ccf699b65f"/>
+</record_update>

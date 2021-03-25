@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.parent-container{
+	display: flex;
+  flex-flow: row;
+  height: 300px;
+}
+
+.left-col{
+	width: 47%;
+}
+
+.right-col{
+	width: 47%;
+}
+
+.bucket-controls{
+	width: 6%;
+}
+
+label{
+	padding-left: 50px;
+  color: black;
+  font-weight: 600;
+}
+
+.bucket{
+	border: 1px solid Gainsboro;
+  border-radius: 3px;
+  height: 250px;
+  width: 75%;
+  margin: auto;
+  overflow-y: scroll;
+}
+
+.bucket-controls{
+	display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bucket-controls &gt; div{
+	border: 1px solid Gainsboro;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+i.fa{
+	color: black;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.fa-angle-left{
+	position: relative;
+  left: -2px;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>slush_bucket</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Slush Bucket</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+	var widgetGr = new GlideRecord("sp_widget");
+	
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>aalberty@itsdelivers.com</sys_created_by>
+        <sys_created_on>2021-03-18 19:00:06</sys_created_on>
+        <sys_id>e6757f582fc32010125ad5ccf699b646</sys_id>
+        <sys_mod_count>44</sys_mod_count>
+        <sys_name>Slush Bucket</sys_name>
+        <sys_package display_value="Developer Tools" source="x_324004_devtools">487be3dc2f832010125ad5ccf699b6b2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Developer Tools">487be3dc2f832010125ad5ccf699b6b2</sys_scope>
+        <sys_update_name>sp_widget_e6757f582fc32010125ad5ccf699b646</sys_update_name>
+        <sys_updated_by>aalberty@itsdelivers.com</sys_updated_by>
+        <sys_updated_on>2021-03-18 20:35:35</sys_updated_on>
+        <template><![CDATA[<div class="parent-container">
+  
+  <div class="left-col">
+    
+  	<label>Available</label>
+    
+    <div class="bucket left-bucket">
+      
+    </div>
+    
+  </div>
+
+  <div class="bucket-controls">
+    
+    <div><i class="fa fa-angle-right"/></div>
+    <div><i class="fa fa-angle-left"/></div>
+  </div>
+  
+  <div class="right-col">
+    
+    <label>Selected</label>
+    
+    <div class="bucket right-bucket">
+      
+    </div>
+    
+  </div>
+
+</div>]]></template>
+    </sp_widget>
+</record_update>
