@@ -1,4 +1,4 @@
-var HagertyAttachmentUtil = Class.create();
+var AttachmentUtil = Class.create();
 HagertyAttachmentUtil.prototype = {
     initialize: function() {
     },
