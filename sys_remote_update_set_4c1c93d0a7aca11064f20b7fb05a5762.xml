@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-01-18 19:16:44">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Parent - TA side project - release planning assist</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>46eb9f90a7aca11064f20b7fb05a574a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>4c1c93d0a7aca11064f20b7fb05a5762</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TA side project - release planning assist</name>
+<origin_sys_id/>
+<parent display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</parent>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>2fe2acec4757d550bb9f49de536d434d</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>481c93d0a7aca11064f20b7fb05a5763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Parent - TA side project - release planning assist</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>46eb9f90a7aca11064f20b7fb05a574a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>4c1c93d0a7aca11064f20b7fb05a5762</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TA side project - release planning assist 4</name>
+<origin_sys_id/>
+<parent display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</parent>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>a614c052472f1dd0bb9f49de536d439a</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>881c93d0a7aca11064f20b7fb05a5765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TA side project - release planning assist 2</name>
+<origin_sys_id/>
+<parent display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</parent>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>a14b8d84a7e31d9064f20b7fb05a57b2</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>8c1c93d0a7aca11064f20b7fb05a5764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>TA side project - release planning assist 3</name>
+<origin_sys_id/>
+<parent display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</parent>
+<release_date/>
+<remote_base_update_set display_value="Parent - TA side project - release planning assist">4c1c93d0a7aca11064f20b7fb05a5762</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>fe5d8588a7e31d9064f20b7fb05a5772</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>d01c93d0a7aca11064f20b7fb05a5766</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_eb0360204797d550bb9f49de536d4312</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ReleasePlanningHelper&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ReleasePlanningHelper&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ReleasePlanningHelper = Class.create();
+ReleasePlanningHelper.prototype = {
+    initialize: function() {
+        this.queryId = "364a3780-6940-47a3-90e4-e4c09bb89cb2";
+    },
+
+	getScheduledStories: function (queryId) {
+        var url = "https://dev.azure.com/hagerty/Hagerty/_apis/wit/wiql/" + queryId + "?api-version=6.0";
+        var method = "GET";
+        var basicAuthCredsId = "e8f4215ddbb4505064f2263705961944";
+        var authGr = new GlideRecord("basic_auth_credentials");
+        authGr.get(basicAuthCredsId);
+        var username = authGr.getValue("user_name");
+        var password = new GlideEncrypter().decrypt(authGr.getValue("password"));
+        // gs.info(username);
+        // gs.info(password);
+
+        var rm = new sn_ws.RESTMessageV2();
+        rm.setHttpMethod(method);
+        rm.setBasicAuth(username, password);
+        rm.setEndpoint(url);
+        rm.setLogLevel("all");
+        var res = rm.execute();
+        // gs.info(JSON.stringify({
+        //     "body": res.getBody(),
+        //     "status": res.getStatusCode(),
+        //     "error_code": res.getErrorCode(),
+        //     "error_message": res.getErrorMessage()
+        // }));
+        return JSON.parse(res.getBody());
+    },
+
+    // buildReleasePlanningQueryString: function (resBody) {
+    //     var queryStr = "";
+    //     resBody.workItems.forEach(function(item){
+            
+    //         if (queryStr != "") {
+    //             queryStr += "^OR";
+    //         }
+
+    //         queryStr += "nameLIKE" + item.id;
+
+    //     });
+    //     return queryStr;
+    // },
+
+    buildReleasePlanningQueryString: function (resBody) {
+        var queryStr = "";
+
+        for (var i = 0; i &lt; resBody.workItems.length; i++) {
+            var item = resBody.workItems[i];
+            var id = item.id + "";
+            var ids = this.getSysIdsForContainsQuery(id);
+
+            if (queryStr != "") {
+                queryStr += ","
+            }
+
+            queryStr += ids;
+        }
+
+        return queryStr;
+    },
+
+    getSysIdsForContainsQuery: function (adoId) {
+        var usgr = new GlideRecord("sys_update_set");
+        usgr.addEncodedQuery("nameLIKE" + adoId);
+        usgr.query();
+        var idStr = "";
+        
+        while (usgr.next()) {
+
+            if (idStr != "") {
+
+                idStr += ",";
+
+            }
+
+            idStr += usgr.sys_id + '';
+        }
+
+        return idStr;
+    },
+
+    buildReleasePlanningRedirectUrl: function () {
+        var queryId = this.queryId;
+        var resBody = JSON.parse(this.getScheduledStories(queryId));
+        var queryStr = this.buildReleasePlanningQueryString(resBody);
+        return "/sys_update_set_list.do?sysparm_query=" + queryStr;
+    },
+	
+
+//     javascript:new ReleasePlanningHelper()._filterBuilder();
+    _filterBuilder: function () {
+        return this.buildReleasePlanningQueryString(this.getScheduledStories(this.queryId));
+    },
+
+
+    type: 'ReleasePlanningHelper'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-17 21:08:59&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;eb0360204797d550bb9f49de536d4312&lt;/sys_id&gt;&lt;sys_mod_count&gt;40&lt;/sys_mod_count&gt;&lt;sys_name&gt;ReleasePlanningHelper&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_eb0360204797d550bb9f49de536d4312&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-28 20:40:55&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1907121186</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist">481c93d0a7aca11064f20b7fb05a5763</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>481c93d0a7aca11064f20b7fb05a5764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184bff8a9b00000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>ReleasePlanningHelper</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>1c4645cce8a31d90fd77b95cb9cc026d</update_guid>
+<update_guid_history>1c4645cce8a31d90fd77b95cb9cc026d:1907121186,fd2645cc21a31d90671cbdc02b4df7f4:-1197545237,df1601cc7da31d9055ef61089b0de372:-1292142075,ddc54d8c96a31d908fbd2079eea355f0:770828271,7da5c98cbba31d90f66d3a9c9280f2b3:1685790895,b395818ca3a31d90511d5244acbca9a4:-409850452,b495098c55a31d906fdb04b9ef8d3112:1720611302,8775c18c5ea31d904c462dd32a3b416f:517060631,6f35c18c09a31d907ffa248ad82d4c3f:-122842625,18254d4c3ca31d90844540eb646f43d5:-1522540844,f605c54ca9a31d90e5d7e429af465c9d:-1894056877,45054d4c20a31d900d118e589d08afce:2028120669,05e4054c03a31d904f4169c0b9e56bdb:1173018569,98b4414c71a31d90a0397f073bc0dff1:593010772,2184cd0ca6a31d901ba65733989ec899:-877390141,f484c14c0ea31d90d1ef7a501cbde7b3:1544130651,bf14450cbaa31d90e38be9ac46f30127:2091907780,a9c3010c54a31d902c3eb1cc0971a910:-824797061,adb3010c32a31d902302f59f8c097c0b:-1684583807,8c938dc8e8a31d908b41e4de4eae8c96:237499118,6e57b0448b631d90dea42631eaefc1cf:1478734763,05e670484f631d90a77376f035bc2c0f:-536185563,3d96f04406631d909ae501d71303d9aa:-1609829156,1146b00888631d90c7d2e0c720f149d6:74129611,2224f04484631d901c3a07d81c63591c:1577807100,71a27c80a3631d90b77bc6ef1790e7ce:-27293213,63f12df0805b5950ec521f526df6cdc4:320483697,af9724a4c597d550ce2cd3892b06ed9b:-1475232978,6f7720a49397d55083cd600d6803a767:-1524676316,0a272c643397d55051b37f6d66fdb45c:-126494666,6ab660647097d5502d6694fe0af64424:404400072,b986ec24f497d550f459317dac958cb7:-599669036,b3a56ce00c97d550ec466879ecbe0aaf:-1609064826,8ba5e8e01897d5508972dbe4d557bd21:-2073596344,6d65e4e0a997d550795df9f12a05931a:-317815976,bfb4e0a0a297d550720639b5bb2989ef:-1451661709,1a042460b197d55047c644d418ab4ae4:-512253675,30c36c206897d5504170fffaae5980e8:-1378322316,31b3ac209897d550d12a7411caf3a886:1529398869,c343a4208b97d5509ee30351bf77fd4d:-1596075771,4c33e4ecb757d550f37e015938136532:-1926072818</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_fc578140a7e31d9064f20b7fb05a579d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_update_set">sys_idINjavascript:generateReleasePlanningUrl()^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="IN" or="false" value="javascript:generateReleasePlanningUrl()"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2022-11-28 20:45:48</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fc578140a7e31d9064f20b7fb05a579d</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name/><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2022-11-28 20:46:30</sys_updated_on><table>sys_update_set</table><title>Scheduled for release</title><user display_value="Tony Alberty">fe1c13a51b3fa810bbe299f32a4bcb91</user></sys_filter></record_update>]]></payload>
+<payload_hash>1156748773</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist">481c93d0a7aca11064f20b7fb05a5763</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>4c1c93d0a7aca11064f20b7fb05a5763</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184bffdc6080000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Scheduled for release</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>0287cd0007e31d90cdb8efacf817168a</update_guid>
+<update_guid_history>0287cd0007e31d90cdb8efacf817168a:1156748773,b9678140aee31d9086e205a6dea5343c:1546404062,2357cd00c7e31d903c6958a23e731586:-122393822</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_bcfd19f8471b5950bb9f49de536d43fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.generateReleasePlanningUrl&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;generateReleasePlanningUrl&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function generateReleasePlanningUrl() {
+	var res = new global.ReleasePlanningHelper()._filterBuilder();
+	gs.info(res);
+	return res;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-18 20:05:41&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;generateReleasePlanningUrl&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-28 19:21:51&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2047502562</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist">481c93d0a7aca11064f20b7fb05a5763</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>841c93d0a7aca11064f20b7fb05a5764</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184bfb045fa0000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>generateReleasePlanningUrl</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>0224b4409a631d902b3582d793ed72b7</update_guid>
+<update_guid_history>0224b4409a631d902b3582d793ed72b7:2047502562,6473784092631d90c869deec86aa85e5:-1859690045,44f074007b631d9091c69b9f6d0a7cec:2047502562,2140a5fcb11b595027c5c3227d61537b:-1859690045,e71029fcef1b5950dc4bc19362e9ae3e:292058754,ea4e51bc4e1b59507eea7a545437c288:-585310433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_bcfd19f8471b5950bb9f49de536d43fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.generateReleasePlanningUrl&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description&gt;on demand script include. Generate comma seperated list of sys_ids for update sets that contain ADO IDs of ADO work items showing in the "Scheduled for release" query. Used in dynamic filter on the update set table.&lt;/description&gt;&lt;name&gt;generateReleasePlanningUrl&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function generateReleasePlanningUrl(credsId) {
+	var res = new global.ReleasePlanningHelper(credsId)._filterBuilder();
+	//gs.info("release planning helper troubleshooting: " + res);
+	return res;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-18 20:05:41&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;generateReleasePlanningUrl&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-12-05 15:39:41&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>194648456</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 4">881c93d0a7aca11064f20b7fb05a5765</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>8c1c93d0a7aca11064f20b7fb05a5765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184e2f164840000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>generateReleasePlanningUrl</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>77644452f22f1dd022756650ceb586aa</update_guid>
+<update_guid_history>77644452f22f1dd022756650ceb586aa:194648456,0164c052ec2f1dd02dcf139de462a8a1:74337724,442f81c877e31d9008b23147c049e500:1535515759,0ead45c86fe31d906625b506a80ee298:1054145579,0224b4409a631d902b3582d793ed72b7:2047502562,6473784092631d90c869deec86aa85e5:-1859690045,44f074007b631d9091c69b9f6d0a7cec:2047502562,2140a5fcb11b595027c5c3227d61537b:-1859690045,e71029fcef1b5950dc4bc19362e9ae3e:292058754,ea4e51bc4e1b59507eea7a545437c288:-585310433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_eb0360204797d550bb9f49de536d4312</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ReleasePlanningHelper&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ReleasePlanningHelper&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ReleasePlanningHelper = Class.create();
+ReleasePlanningHelper.prototype = {
+    initialize: function() {
+        this.queryId = "364a3780-6940-47a3-90e4-e4c09bb89cb2";
+    },
+
+	getScheduledStories: function (queryId) {
+        var url = "https://dev.azure.com/hagerty/Hagerty/_apis/wit/wiql/" + queryId + "?api-version=6.0";
+        var method = "GET";
+        var basicAuthCredsId = gs.getProperty("releasePlanning.credentialsId");
+        var authGr = new GlideRecord("basic_auth_credentials");
+        authGr.get(basicAuthCredsId);
+        var username = authGr.getValue("user_name");
+        var password = new GlideEncrypter().decrypt(authGr.getValue("password"));
+        // gs.info(username);
+        // gs.info(password);
+
+        var rm = new sn_ws.RESTMessageV2();
+        rm.setHttpMethod(method);
+        rm.setBasicAuth(username, password);
+        rm.setEndpoint(url);
+        rm.setLogLevel("all");
+        var res = rm.execute();
+        // gs.info(JSON.stringify({
+        //     "body": res.getBody(),
+        //     "status": res.getStatusCode(),
+        //     "error_code": res.getErrorCode(),
+        //     "error_message": res.getErrorMessage()
+        // }));
+        return JSON.parse(res.getBody());
+    },
+
+    // buildReleasePlanningQueryString: function (resBody) {
+    //     var queryStr = "";
+    //     resBody.workItems.forEach(function(item){
+            
+    //         if (queryStr != "") {
+    //             queryStr += "^OR";
+    //         }
+
+    //         queryStr += "nameLIKE" + item.id;
+
+    //     });
+    //     return queryStr;
+    // },
+
+    buildReleasePlanningQueryString: function (resBody) {
+        var queryStr = "";
+
+        for (var i = 0; i &lt; resBody.workItems.length; i++) {
+            var item = resBody.workItems[i];
+            var id = item.id + "";
+            var ids = this.getSysIdsForContainsQuery(id);
+
+            if (queryStr != "") {
+                queryStr += ","
+            }
+
+            queryStr += ids;
+        }
+
+        return queryStr;
+    },
+
+    getSysIdsForContainsQuery: function (adoId) {
+        var usgr = new GlideRecord("sys_update_set");
+        usgr.addEncodedQuery("nameLIKE" + adoId);
+        usgr.query();
+        var idStr = "";
+        
+        while (usgr.next()) {
+
+            if (idStr != "") {
+
+                idStr += ",";
+
+            }
+
+            idStr += usgr.sys_id + '';
+        }
+
+        return idStr;
+    },
+
+    buildReleasePlanningRedirectUrl: function () {
+        var queryId = this.queryId;
+        var resBody = JSON.parse(this.getScheduledStories(queryId));
+        var queryStr = this.buildReleasePlanningQueryString(resBody);
+        return "/sys_update_set_list.do?sysparm_query=" + queryStr;
+    },
+	
+
+//     javascript:new ReleasePlanningHelper()._filterBuilder();
+    _filterBuilder: function () {
+        return this.buildReleasePlanningQueryString(this.getScheduledStories(this.queryId));
+    },
+
+
+    type: 'ReleasePlanningHelper'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-17 21:08:59&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;eb0360204797d550bb9f49de536d4312&lt;/sys_id&gt;&lt;sys_mod_count&gt;41&lt;/sys_mod_count&gt;&lt;sys_name&gt;ReleasePlanningHelper&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_eb0360204797d550bb9f49de536d4312&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-28 21:04:57&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1302191470</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 2">8c1c93d0a7aca11064f20b7fb05a5764</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>441c93d0a7aca11064f20b7fb05a5765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c00eab0f0000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>ReleasePlanningHelper</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>14cbc5042be31d9075dd69549d1dfdc9</update_guid>
+<update_guid_history>14cbc5042be31d9075dd69549d1dfdc9:1302191470,1c4645cce8a31d90fd77b95cb9cc026d:1907121186,fd2645cc21a31d90671cbdc02b4df7f4:-1197545237,df1601cc7da31d9055ef61089b0de372:-1292142075,ddc54d8c96a31d908fbd2079eea355f0:770828271,7da5c98cbba31d90f66d3a9c9280f2b3:1685790895,b395818ca3a31d90511d5244acbca9a4:-409850452,b495098c55a31d906fdb04b9ef8d3112:1720611302,8775c18c5ea31d904c462dd32a3b416f:517060631,6f35c18c09a31d907ffa248ad82d4c3f:-122842625,18254d4c3ca31d90844540eb646f43d5:-1522540844,f605c54ca9a31d90e5d7e429af465c9d:-1894056877,45054d4c20a31d900d118e589d08afce:2028120669,05e4054c03a31d904f4169c0b9e56bdb:1173018569,98b4414c71a31d90a0397f073bc0dff1:593010772,2184cd0ca6a31d901ba65733989ec899:-877390141,f484c14c0ea31d90d1ef7a501cbde7b3:1544130651,bf14450cbaa31d90e38be9ac46f30127:2091907780,a9c3010c54a31d902c3eb1cc0971a910:-824797061,adb3010c32a31d902302f59f8c097c0b:-1684583807,8c938dc8e8a31d908b41e4de4eae8c96:237499118,6e57b0448b631d90dea42631eaefc1cf:1478734763,05e670484f631d90a77376f035bc2c0f:-536185563,3d96f04406631d909ae501d71303d9aa:-1609829156,1146b00888631d90c7d2e0c720f149d6:74129611,2224f04484631d901c3a07d81c63591c:1577807100,71a27c80a3631d90b77bc6ef1790e7ce:-27293213,63f12df0805b5950ec521f526df6cdc4:320483697,af9724a4c597d550ce2cd3892b06ed9b:-1475232978,6f7720a49397d55083cd600d6803a767:-1524676316,0a272c643397d55051b37f6d66fdb45c:-126494666,6ab660647097d5502d6694fe0af64424:404400072,b986ec24f497d550f459317dac958cb7:-599669036,b3a56ce00c97d550ec466879ecbe0aaf:-1609064826,8ba5e8e01897d5508972dbe4d557bd21:-2073596344,6d65e4e0a997d550795df9f12a05931a:-317815976,bfb4e0a0a297d550720639b5bb2989ef:-1451661709,1a042460b197d55047c644d418ab4ae4:-512253675,30c36c206897d5504170fffaae5980e8:-1378322316,31b3ac209897d550d12a7411caf3a886:1529398869,c343a4208b97d5509ee30351bf77fd4d:-1596075771,4c33e4ecb757d550f37e015938136532:-1926072818</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_274b89c4a7e31d9064f20b7fb05a57a9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>sys_id of credentials record to use for ReleasePlanningHelper script include.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>releasePlanning.credentialsId</name><read_roles>admin</read_roles><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2022-11-28 21:03:47</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>274b89c4a7e31d9064f20b7fb05a57a9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>releasePlanning.credentialsId</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_274b89c4a7e31d9064f20b7fb05a57a9</sys_update_name><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2022-11-28 21:04:39</sys_updated_on><type>string</type><value>e8f4215ddbb4505064f2263705961944</value><write_roles>admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=274b89c4a7e31d9064f20b7fb05a57a9"/></record_update>]]></payload>
+<payload_hash>248198436</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 2">8c1c93d0a7aca11064f20b7fb05a5764</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>801c93d0a7aca11064f20b7fb05a5765</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c00e64260000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>releasePlanning.credentialsId</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>f7abc1086de31d908f218d88b04749ed</update_guid>
+<update_guid_history>f7abc1086de31d908f218d88b04749ed:248198436,837b8dc4bee31d9068888a9a263c9617:602069522</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_eb0360204797d550bb9f49de536d4312</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.ReleasePlanningHelper&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;ReleasePlanningHelper&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var ReleasePlanningHelper = Class.create();
+ReleasePlanningHelper.prototype = {
+    initialize: function(credsId) {
+        this.queryId = "364a3780-6940-47a3-90e4-e4c09bb89cb2";
+		this.credsId = credsId;
+    },
+
+	getScheduledStories: function (queryId) {
+        var url = "https://dev.azure.com/hagerty/Hagerty/_apis/wit/wiql/" + queryId + "?api-version=6.0";
+        var method = "GET";
+		
+		if (gs.nil(this.credsId)) {
+			this.credsId = gs.getProperty("releasePlanning.credentialsId");
+
+		}
+		
+        var authGr = new GlideRecord("basic_auth_credentials");
+        authGr.get(this.credsId);
+        var username = authGr.getValue("user_name");
+        var password = new GlideEncrypter().decrypt(authGr.getValue("password"));
+        // gs.info(username);
+        // gs.info(password);
+
+        var rm = new sn_ws.RESTMessageV2();
+        rm.setHttpMethod(method);
+        rm.setBasicAuth(username, password);
+        rm.setEndpoint(url);
+        rm.setLogLevel("all");
+        var res = rm.execute();
+        gs.info(JSON.stringify({
+            "body": res.getBody(),
+            "status": res.getStatusCode(),
+            "error_code": res.getErrorCode(),
+            "error_message": res.getErrorMessage()
+        }));
+        return JSON.parse(res.getBody());
+    },
+
+    // buildReleasePlanningQueryString: function (resBody) {
+    //     var queryStr = "";
+    //     resBody.workItems.forEach(function(item){
+            
+    //         if (queryStr != "") {
+    //             queryStr += "^OR";
+    //         }
+
+    //         queryStr += "nameLIKE" + item.id;
+
+    //     });
+    //     return queryStr;
+    // },
+
+    buildReleasePlanningQueryString: function (resBody) {
+        var queryStr = "";
+
+        for (var i = 0; i &lt; resBody.workItems.length; i++) {
+            var item = resBody.workItems[i];
+            var id = item.id + "";
+            var ids = this.getSysIdsForContainsQuery(id);
+
+            if (queryStr != "") {
+                queryStr += ","
+            }
+
+            queryStr += ids;
+        }
+
+        return queryStr;
+    },
+
+    getSysIdsForContainsQuery: function (adoId) {
+        var usgr = new GlideRecord("sys_update_set");
+        usgr.addEncodedQuery("nameLIKE" + adoId);
+        usgr.query();
+        var idStr = "";
+        
+        while (usgr.next()) {
+
+            if (idStr != "") {
+
+                idStr += ",";
+
+            }
+
+            idStr += usgr.sys_id + '';
+        }
+
+        return idStr;
+    },
+
+    buildReleasePlanningRedirectUrl: function () {
+        var queryId = this.queryId;
+        var resBody = JSON.parse(this.getScheduledStories(queryId));
+        var queryStr = this.buildReleasePlanningQueryString(resBody);
+        return "/sys_update_set_list.do?sysparm_query=" + queryStr;
+    },
+	
+
+//     javascript:new ReleasePlanningHelper()._filterBuilder();
+    _filterBuilder: function () {
+        return this.buildReleasePlanningQueryString(this.getScheduledStories(this.queryId));
+    },
+
+
+    type: 'ReleasePlanningHelper'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-17 21:08:59&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;eb0360204797d550bb9f49de536d4312&lt;/sys_id&gt;&lt;sys_mod_count&gt;45&lt;/sys_mod_count&gt;&lt;sys_name&gt;ReleasePlanningHelper&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_eb0360204797d550bb9f49de536d4312&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-28 21:21:12&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2087358025</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 3">d01c93d0a7aca11064f20b7fb05a5766</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>101c93d0a7aca11064f20b7fb05a5767</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c01fcfe20000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>ReleasePlanningHelper</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>a6009d4cd4e31d901f03a23b001907d8</update_guid>
+<update_guid_history>a6009d4cd4e31d901f03a23b001907d8:2087358025,d67fc94c10e31d9055f71bb242680783:2087358025,814fc54c34e31d9039eee9fd30f39587:-1529872649,dffd498891e31d904fe7cbdf3bb9f3c0:-299380089,ba6d8508f3e31d904c9b2b790775d687:-1284866201,14cbc5042be31d9075dd69549d1dfdc9:1302191470,1c4645cce8a31d90fd77b95cb9cc026d:1907121186,fd2645cc21a31d90671cbdc02b4df7f4:-1197545237,df1601cc7da31d9055ef61089b0de372:-1292142075,ddc54d8c96a31d908fbd2079eea355f0:770828271,7da5c98cbba31d90f66d3a9c9280f2b3:1685790895,b395818ca3a31d90511d5244acbca9a4:-409850452,b495098c55a31d906fdb04b9ef8d3112:1720611302,8775c18c5ea31d904c462dd32a3b416f:517060631,6f35c18c09a31d907ffa248ad82d4c3f:-122842625,18254d4c3ca31d90844540eb646f43d5:-1522540844,f605c54ca9a31d90e5d7e429af465c9d:-1894056877,45054d4c20a31d900d118e589d08afce:2028120669,05e4054c03a31d904f4169c0b9e56bdb:1173018569,98b4414c71a31d90a0397f073bc0dff1:593010772,2184cd0ca6a31d901ba65733989ec899:-877390141,f484c14c0ea31d90d1ef7a501cbde7b3:1544130651,bf14450cbaa31d90e38be9ac46f30127:2091907780,a9c3010c54a31d902c3eb1cc0971a910:-824797061,adb3010c32a31d902302f59f8c097c0b:-1684583807,8c938dc8e8a31d908b41e4de4eae8c96:237499118,6e57b0448b631d90dea42631eaefc1cf:1478734763,05e670484f631d90a77376f035bc2c0f:-536185563,3d96f04406631d909ae501d71303d9aa:-1609829156,1146b00888631d90c7d2e0c720f149d6:74129611,2224f04484631d901c3a07d81c63591c:1577807100,71a27c80a3631d90b77bc6ef1790e7ce:-27293213,63f12df0805b5950ec521f526df6cdc4:320483697,af9724a4c597d550ce2cd3892b06ed9b:-1475232978,6f7720a49397d55083cd600d6803a767:-1524676316,0a272c643397d55051b37f6d66fdb45c:-126494666,6ab660647097d5502d6694fe0af64424:404400072,b986ec24f497d550f459317dac958cb7:-599669036,b3a56ce00c97d550ec466879ecbe0aaf:-1609064826,8ba5e8e01897d5508972dbe4d557bd21:-2073596344,6d65e4e0a997d550795df9f12a05931a:-317815976,bfb4e0a0a297d550720639b5bb2989ef:-1451661709,1a042460b197d55047c644d418ab4ae4:-512253675,30c36c206897d5504170fffaae5980e8:-1378322316,31b3ac209897d550d12a7411caf3a886:1529398869,c343a4208b97d5509ee30351bf77fd4d:-1596075771,4c33e4ecb757d550f37e015938136532:-1926072818</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_bcfd19f8471b5950bb9f49de536d43fd</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.generateReleasePlanningUrl&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;generateReleasePlanningUrl&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function generateReleasePlanningUrl(credsId) {
+	var res = new global.ReleasePlanningHelper(credsId)._filterBuilder();
+	gs.info("release planning helper troubleshooting: " + res);
+	return res;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-18 20:05:41&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;generateReleasePlanningUrl&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_bcfd19f8471b5950bb9f49de536d43fd&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-28 21:19:41&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1535515759</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 3">d01c93d0a7aca11064f20b7fb05a5766</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>5c1c93d0a7aca11064f20b7fb05a5766</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c01fcff50000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>generateReleasePlanningUrl</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>aa009d4c6ee31d900c3e9769443745d9</update_guid>
+<update_guid_history>aa009d4c6ee31d900c3e9769443745d9:1535515759,442f81c877e31d9008b23147c049e500:1535515759,0ead45c86fe31d906625b506a80ee298:1054145579,0224b4409a631d902b3582d793ed72b7:2047502562,6473784092631d90c869deec86aa85e5:-1859690045,44f074007b631d9091c69b9f6d0a7cec:2047502562,2140a5fcb11b595027c5c3227d61537b:-1859690045,e71029fcef1b5950dc4bc19362e9ae3e:292058754,ea4e51bc4e1b59507eea7a545437c288:-585310433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_274b89c4a7e31d9064f20b7fb05a57a9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="DELETE"><choices/><description>sys_id of credentials record to use for ReleasePlanningHelper script include.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>releasePlanning.credentialsId</name><read_roles>admin</read_roles><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2022-11-28 21:03:47</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>274b89c4a7e31d9064f20b7fb05a57a9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>releasePlanning.credentialsId</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_274b89c4a7e31d9064f20b7fb05a57a9</sys_update_name><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2022-11-28 21:04:39</sys_updated_on><type>string</type><value>e8f4215ddbb4505064f2263705961944</value><write_roles>admin</write_roles></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=274b89c4a7e31d9064f20b7fb05a57a9"/></record_update>]]></payload>
+<payload_hash>-1855652200</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 3">d01c93d0a7aca11064f20b7fb05a5766</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>981c93d0a7aca11064f20b7fb05a5766</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c01ec5780000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table/>
+<target_name>releasePlanning.credentialsId</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>cecfc94c1be31d90c1c704e14ef152a4</update_guid>
+<update_guid_history>cecfc94c1be31d90c1c704e14ef152a4:-1855652200,f7abc1086de31d908f218d88b04749ed:248198436,837b8dc4bee31d9068888a9a263c9617:602069522</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_fc578140a7e31d9064f20b7fb05a579d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_update_set">sys_idINjavascript:generateReleasePlanningUrl("e8f4215ddbb4505064f2263705961944")^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="IN" or="false" value="javascript:generateReleasePlanningUrl(&quot;e8f4215ddbb4505064f2263705961944&quot;)"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2022-11-28 20:45:48</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fc578140a7e31d9064f20b7fb05a579d</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Scheduled for release</sys_name><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name/><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2022-11-28 21:22:00</sys_updated_on><table>sys_update_set</table><title>Scheduled for release</title><user display_value="Tony Alberty">fe1c13a51b3fa810bbe299f32a4bcb91</user></sys_filter></record_update>]]></payload>
+<payload_hash>-1355216595</payload_hash>
+<remote_update_set display_value="TA side project - release planning assist 3">d01c93d0a7aca11064f20b7fb05a5766</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>talberty</sys_created_by>
+<sys_created_on>2023-01-18 19:16:44</sys_created_on>
+<sys_id>d41c93d0a7aca11064f20b7fb05a5766</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>184c0208b030000001</sys_recorded_at>
+<sys_updated_by>talberty</sys_updated_by>
+<sys_updated_on>2023-01-18 19:16:44</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Scheduled for release</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>5630918c78e31d906a33fbff1fb62fca</update_guid>
+<update_guid_history>5630918c78e31d906a33fbff1fb62fca:-1355216595,caaf41c8c1e31d90d02078f616f2feac:-1261046435,243f854c4ee31d90134e2f0fbebfb543:-1080148745,0287cd0007e31d90cdb8efacf817168a:1156748773,b9678140aee31d9086e205a6dea5343c:1546404062,2357cd00c7e31d903c6958a23e731586:-122393822</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
